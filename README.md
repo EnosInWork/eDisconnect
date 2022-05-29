@@ -1,4 +1,4 @@
-# eDisconnect (Dont pay for this)
+# eDisconnect (Don't pay for this)
 
 [Voir la vidéo]()
 -
